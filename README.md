@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Kamalkishore01
+ Hi, I’m @Kamalkishore01
+ I'm Computer Science Undergrad, developing my skills and learning new technologies.
   
 - Follow me on:
 - 📫 Linkedin: (Kamal Kishore) https://www.linkedin.com/in/kamal-kishore-3aa770305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
